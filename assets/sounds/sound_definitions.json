@@ -1,0 +1,58 @@
+{
+   "format_version": "1.14.0",
+   "sound_definitions": {
+      "mob.villager.death": {
+         "__use_legacy_max_distance": "true",
+         "category": "neutral",
+         "sounds": [
+            "sounds/mob/villager/death"
+         ]
+      },
+      "mob.villager.haggle" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "neutral",
+         "sounds" : [
+            "sounds/mob/villager/haggle1",
+            "sounds/mob/villager/haggle2",
+            "sounds/mob/villager/haggle3"
+         ]
+      },
+      "mob.villager.hit" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "neutral",
+         "sounds" : [
+            "sounds/mob/villager/hit1",
+            "sounds/mob/villager/hit2",
+            "sounds/mob/villager/hit3",
+            "sounds/mob/villager/hit4"
+         ]
+      },
+      "mob.villager.idle" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "neutral",
+         "sounds" : [
+            "sounds/mob/villager/idle1",
+            "sounds/mob/villager/idle2",
+            "sounds/mob/villager/idle3"
+         ]
+      },
+      "mob.villager.no" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "neutral",
+         "sounds" : [
+            "sounds/mob/villager/no1",
+            "sounds/mob/villager/no2",
+            "sounds/mob/villager/no3"
+         ]
+      },
+      "mob.villager.yes" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "neutral",
+         "sounds" : [
+            "sounds/mob/villager/yes1",
+            "sounds/mob/villager/yes2",
+            "sounds/mob/villager/yes3"
+         ]
+      }
+   }
+}

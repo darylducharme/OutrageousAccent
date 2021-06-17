@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Outrageous Villager Accents",
+        "name": "Outrageous Villager Accents",
+        "uuid": "a6eeafad-8166-48bb-ab27-25ab95fd4894",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Outrageous Villager Accents",
+            "type": "resources",
+            "uuid": "67c78711-ad37-4b6c-9dd8-8428f7d12766",
+            "version": [0, 0, 1]
+        }
+    ]
+}

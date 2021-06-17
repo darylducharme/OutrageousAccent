@@ -1,0 +1,5 @@
+/.vs
+/bazel-bin
+/bazel-outrageousaccent
+/bazel-testlogs
+/bazel-out
