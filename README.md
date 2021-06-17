@@ -9,3 +9,5 @@ In the project folder use the command:
 ```
 bazel build :outrageous_accents
 ```
+
+Of course, you can also just zip up the assets folder and rename it to have an mcpack extension. That's probably easier for most people.
