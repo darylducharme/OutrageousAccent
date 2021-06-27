@@ -1,4 +1,4 @@
-= Outrageous Villager Accents =
+# Outrageous Villager Accents
 
 Add-on for the Bedrock edition of Minecraft that gives villagers a really bad French accent
 
