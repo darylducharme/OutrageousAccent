@@ -11,3 +11,15 @@ bazel build :outrageous_accents
 ```
 
 Of course, you can also just zip up the assets folder and rename it to have an mcpack extension. That's probably easier for most people.
+
+For the Java edition resource pack use the following command:
+
+```
+bazel build :outrageous_accents_java
+```
+
+To build both, and it is pretty fast so you might as well, use the following command:
+
+```
+bazel build :all
+```
