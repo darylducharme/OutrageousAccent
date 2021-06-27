@@ -1,0 +1,49 @@
+{
+    "mob.villager.death": {
+        "category": "neutral",
+        "sounds": [
+            "sounds/mob/villager/death"
+        ]
+    },
+    "mob.villager.haggle": {
+        "category": "neutral",
+        "sounds": [
+            "sounds/mob/villager/haggle1",
+            "sounds/mob/villager/haggle2",
+            "sounds/mob/villager/haggle3"
+        ]
+    },
+    "mob.villager.hit": {
+        "category": "neutral",
+        "sounds": [
+            "sounds/mob/villager/hit1",
+            "sounds/mob/villager/hit2",
+            "sounds/mob/villager/hit3",
+            "sounds/mob/villager/hit4"
+        ]
+    },
+    "mob.villager.idle": {
+        "category": "neutral",
+        "sounds": [
+            "sounds/mob/villager/idle1",
+            "sounds/mob/villager/idle2",
+            "sounds/mob/villager/idle3"
+        ]
+    },
+    "mob.villager.no": {
+        "category": "neutral",
+        "sounds": [
+            "sounds/mob/villager/no1",
+            "sounds/mob/villager/no2",
+            "sounds/mob/villager/no3"
+        ]
+    },
+    "mob.villager.yes": {
+        "category": "neutral",
+        "sounds": [
+            "sounds/mob/villager/yes1",
+            "sounds/mob/villager/yes2",
+            "sounds/mob/villager/yes3"
+        ]
+    }
+}
